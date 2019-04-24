@@ -115,7 +115,7 @@ get_header();
                                         
                                     </a>
                                 </div>
-                            <?php
+                            <?php 
                             }
                             wp_reset_postdata();
                         } 
